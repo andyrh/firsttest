@@ -10,7 +10,7 @@ namespace AEWTest
     {
         static void Main(string[] args)
         {
-            System.Console.WriteLine("Andy testing");
+            System.Console.WriteLine("Andy testing some more");
             System.Console.ReadLine();
         }
     }
